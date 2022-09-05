@@ -1,18 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.mjlaufer.undercityintellij</id>
-    <name>undercity-intellij</name>
+    <name>Undercity</name>
     <vendor>mjlaufer</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.mjlaufer.undercityintellij.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.mjlaufer.undercityintellij.services.MyProjectService"/>
+        <themeProvider id="com.github.mjlaufer.undercityintellij" path="/theme/undercity.theme.json" />
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.mjlaufer.undercityintellij.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>

@@ -402,7 +402,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="94cf95" />
+                <option name="FOREGROUND" value="88b3b2" />
             </value>
         </option>
         <option name="DEFAULT_PARENTHS">
@@ -442,7 +442,7 @@
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="88b3b2" />
+                <option name="FOREGROUND" value="94cf95" />
             </value>
         </option>
         <option name="DEFAULT_TAG">
@@ -586,7 +586,7 @@
         </option>
         <option name="INLAY_DEFAULT">
             <value>
-                <option name="FOREGROUND" value="779978" />
+                <option name="FOREGROUND" value="779090" />
             </value>
         </option>
         <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
@@ -630,50 +630,6 @@
             <value>
                 <option name="FOREGROUND" value="9aabd6" />
             </value>
-        </option>
-        <option name="KOTLIN_BACKING_FIELD_VARIABLE">
-            <value />
-        </option>
-        <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-            <value>
-                <option name="FONT_TYPE" value="2" />
-            </value>
-        </option>
-        <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
-            <value>
-                <option name="FONT_TYPE" value="2" />
-            </value>
-        </option>
-        <option name="KOTLIN_LABEL">
-            <value>
-                <option name="FOREGROUND" value="88b3b2" />
-                <option name="FONT_TYPE" value="1" />
-            </value>
-        </option>
-        <option name="KOTLIN_NAMED_ARGUMENT">
-            <value>
-                <option name="FOREGROUND" value="88b3b2" />
-                <option name="FONT_TYPE" value="1" />
-            </value>
-        </option>
-        <option name="KOTLIN_SMART_CAST_RECEIVER">
-            <value>
-                <option name="BACKGROUND" value="779978" />
-            </value>
-        </option>
-        <option name="KOTLIN_SMART_CAST_VALUE">
-            <value>
-                <option name="BACKGROUND" value="779978" />
-            </value>
-        </option>
-        <option name="KOTLIN_SMART_CONSTANT">
-            <value>
-                <option name="BACKGROUND" value="779978" />
-            </value>
-        </option>
-        <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-        <option name="LESS_VARIABLE">
-            <value />
         </option>
         <option name="LINE_FULL_COVERAGE">
             <value>
@@ -811,7 +767,7 @@
         </option>
         <option name="TS.TYPE_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="94cf95" />
+                <option name="FOREGROUND" value="88b3b2" />
             </value>
         </option>
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">

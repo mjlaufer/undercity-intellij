@@ -601,9 +601,19 @@
                 <option name="FOREGROUND" value="ef6060" />
             </value>
         </option>
+        <option name="JS.GLOBAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="e3bc66" />
+            </value>
+        </option>
         <option name="JS.GLOBAL_VARIABLE">
             <value>
                 <option name="FOREGROUND" value="9aabd6" />
+            </value>
+        </option>
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="e3bc66" />
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE">
